@@ -1,4 +1,4 @@
-#GPT's Explanation:
+# GPT's Explanation:
 Random Number Generation:
 
 We use rand() to generate a random number and srand() to seed the random number generator with the current time (using time(0)).\
